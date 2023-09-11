@@ -40,6 +40,4 @@ This repository contains Python code for analyzing Fitbit data. The analysis is 
 2. Place your Fitbit data file in the same directory as the Python scripts or update the file path in the code.
 3. Run each step sequentially for comprehensive analysis.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
